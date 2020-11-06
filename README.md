@@ -1,8 +1,14 @@
+---
+typora-root-url: ./
+---
+
 ## MOD 7 - Accessing a  Database (19)
 
 ### L1:Creating and  Using Entity Data Models
 
-#### Demonstration:  Creating an Entity Data Model![Captura de pantalla 2020-11-06 104424](D:\20483C\Demos\20483C-Mod7-Demo-Lesson1\Captura de pantalla 2020-11-06 104424.jpg)
+#### Demonstration:  Creating an Entity Data Model
+
+#### ![](/Captura de pantalla 2020-11-06 104424.jpg)
 
 
 
