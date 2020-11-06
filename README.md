@@ -2,7 +2,9 @@
 
 ### L1:Creating and  Using Entity Data Models
 
-#### Demonstration:  Creating an Entity Data Model
+#### Demonstration:  Creating an Entity Data Model![Captura de pantalla 2020-11-06 104424](D:\20483C\Demos\20483C-Mod7-Demo-Lesson1\Captura de pantalla 2020-11-06 104424.jpg)
+
+
 
 #### Demonstration: Reading and Modifying Data in an EDM
 
